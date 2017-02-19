@@ -77,3 +77,5 @@ public class BinaryTree{
   }
   
 }
+
+//Time complexity is O(n)
