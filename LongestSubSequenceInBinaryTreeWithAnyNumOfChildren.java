@@ -1,3 +1,7 @@
+//in a tree any root can have any number of children. 
+//Every node has an integer value. Find the maximum length on consecutive number sequence anywhere in the tree. 
+//For example if root is 2 and one child is 3, its child is 4 its child is 6 then max length will be 3.
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
